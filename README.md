@@ -1,2 +1,2 @@
-# intro-to-pyntho
+# intro-to-python
 Intro to Programming 
